@@ -1,1 +1,1 @@
-C:\Users\blaze\OneDrive\Documents\GitHub\learning-rust\projects\guessing_game\target\debug\guessing_game.exe: C:\Users\blaze\OneDrive\Documents\GitHub\learning-rust\projects\guessing_game\src\main.rs
+/Users/taki/Documents/GitHub/learning-rust/projects/chp3/guessing_game/target/debug/guessing_game: /Users/taki/Documents/GitHub/learning-rust/projects/chp3/guessing_game/src/main.rs
