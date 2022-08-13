@@ -1,0 +1,1 @@
+C:\Users\blaze\OneDrive\Documents\GitHub\learning-rust\projects\concurrency\threads\target\debug\threads.exe: C:\Users\blaze\OneDrive\Documents\GitHub\learning-rust\projects\concurrency\threads\src\main.rs
